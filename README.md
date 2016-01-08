@@ -1,2 +1,2 @@
 # test
-trial with aptana
+trial with Aptana
